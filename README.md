@@ -22,7 +22,7 @@
 
 ### Connect with me:
 <br />
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://github.com/Abbos2299/topics/blob/547fba88bcb6d08cffaa04765221d7e3f8874a17/Telegram_logo.svg.png" />] [telegram]
+<img align="left" alt="webtricks-master.ru" width="22px" src="https://github.com/Abbos2299/topics/blob/547fba88bcb6d08cffaa04765221d7e3f8874a17/Telegram_logo.svg.png" /> [telegram]
 
 ## Languages and Tools:
 <br />
