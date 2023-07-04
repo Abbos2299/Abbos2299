@@ -46,10 +46,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 
@@ -66,7 +64,5 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
 
-[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
 [linkedin]: https://www.linkedin.com/in/abboskhon-najmiddinov-86a3b0225
 [instagram]: [https://www.instagram.com/corvaxv/](https://www.instagram.com/abbos_nadj/)https://www.instagram.com/abbos_nadj/
-[vk]: https://vk.com/vladislavkalachov
