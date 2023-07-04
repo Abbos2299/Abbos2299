@@ -53,7 +53,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of AI: Challenges and Potential Harm in the IT Industry]([https://medium.com/@abbos_alan/title-the-impact-of-ai-challenges-and-potential-harm-in-the-it-industry-2f4a1255dca7])
+- [The Impact of AI: Challenges and Potential Harm in the IT Industry](https://medium.com/@abbos_alan/title-the-impact-of-ai-challenges-and-potential-harm-in-the-it-industry-2f4a1255dca7)
 
 <!-- BLOG-POST-LIST:END -->
 
