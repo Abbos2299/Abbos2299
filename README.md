@@ -53,7 +53,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Will Artificial Intelligence (AI) replace a human in "IT"?]([https://medium.com/@abbos_alan/title-the-impact-of-ai-challenges-and-potential-harm-in-the-it-industry-2f4a1255dca7](https://www.researchgate.net/publication/372131580_WILL_ARTIFICIAL_INTELLIGENCE_AI_REPLACE_A_HUMAN_IN_IT/citations))
+- [Will Artificial Intelligence (AI) replace a human in "IT"?](https://www.researchgate.net/publication/372131580_WILL_ARTIFICIAL_INTELLIGENCE_AI_REPLACE_A_HUMAN_IN_IT/citations)
 - [The Impact of AI: Challenges and Potential Harm in the IT Industry](https://medium.com/@abbos_alan/title-the-impact-of-ai-challenges-and-potential-harm-in-the-it-industry-2f4a1255dca7)
 
 <!-- BLOG-POST-LIST:END -->
