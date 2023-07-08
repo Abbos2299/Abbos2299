@@ -2,13 +2,14 @@
 
    <p align="left">
       <a href="">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkvd2R7fmbs1watlJ6wur_w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630%22/"/></a> 
-      <a href="">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCkvd2R7fmbs1watlJ6wur_w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/VladKalachev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VladKalachev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkvd2R7fmbs1watlJ6wur_w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630%22/"/></a> 
+
    </p>
 
 ## I'm a Full Stack Developer with big experience in Business Management and Education
@@ -16,9 +17,9 @@
 
 - 📫 Creative Design Enthusiast: I have a keen eye for design and strive to create visually appealing and user-friendly interfaces for web and mobile applications.
 
-- 🔭 Continuous Learner: I am always hungry for knowledge and constantly stay updated with the latest technologies and trends in the programming world.
-
 - 💬 Tech Writer: I enjoy sharing my knowledge and insights through writing articles on various programming topics, with a focus on practical tips and tutorials on my blog.
+
+- 🔭 Continuous Learner: I am always hungry for knowledge and constantly stay updated with the latest technologies and trends in the programming world.
 
 - 🌱 Entrepreneurial Spirit: Alongside my technical skills, I have a strong interest in the business side of technology, exploring opportunities and strategies for leveraging technology to drive growth and innovation.
 
