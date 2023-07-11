@@ -9,8 +9,8 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VladKalachev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkvd2R7fmbs1watlJ6wur_w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630%22/"/></a> 
-
-   </p>
+ </p>
+  
 
 ## I'm a Full Stack Developer with big experience in Business Management and Education
 - ⚡ Passionate Programmer: I have a deep love for coding and enjoy tackling complex problems to create efficient and scalable solutions.
@@ -21,9 +21,10 @@
 
 - 🔭 Continuous Learner: I am always hungry for knowledge and constantly stay updated with the latest technologies and trends in the programming world.
 
+- 🎥 Passion for Education: I am dedicated to promoting education and sharing knowledge, and I enjoy creating educational videos on programming and technology-related topics on YouTube.
+
 - 🌱 Entrepreneurial Spirit: Alongside my technical skills, I have a strong interest in the business side of technology, exploring opportunities and strategies for leveraging technology to drive growth and innovation.
 
-- 🎥 Passion for Education: I am dedicated to promoting education and sharing knowledge, and I enjoy creating educational videos on programming and technology-related topics on YouTube.
 
 <br />
 
